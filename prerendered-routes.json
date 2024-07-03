@@ -1,0 +1,26 @@
+{
+  "routes": [
+    "/ad-sell",
+    "/billing",
+    "/Buybillingpackages",
+    "/buybisinesspackages",
+    "/chat-safety-tips",
+    "/header",
+    "/help",
+    "/home",
+    "/invoices",
+    "/login",
+    "/messageComponent",
+    "/Myads",
+    "/notifications",
+    "/packagedetail",
+    "/privacy",
+    "/productdetailpage",
+    "/Profileuser",
+    "/searchpage",
+    "/sellComponent",
+    "/settings",
+    "/userhome",
+    "/viewEditProfile"
+  ]
+}
